@@ -70,8 +70,6 @@ def runner
   initial_round
     until (card_total>21)
     card_total = initial_round 
-     end
-  card_total
 end
 end_game
 end
